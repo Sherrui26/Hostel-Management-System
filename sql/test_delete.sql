@@ -1,0 +1,22 @@
+drop table admin;
+drop table adminlog;
+drop table complainthistory;
+drop table complaints;
+drop table courses;
+drop table feedback;
+drop table registration;
+drop table rooms;
+drop table states;
+drop table userlog;
+drop table userregistration;
+
+drop sequence admin_seq;
+drop sequence complainthistory_seq;
+drop sequence complaints_seq;
+drop sequence courses_seq;
+drop sequence feedback_seq;
+drop sequence registration_seq;
+drop sequence rooms_seq;
+drop sequence states_seq;
+drop sequence userlog_seq;
+drop sequence userregistration_seq;

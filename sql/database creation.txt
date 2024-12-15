@@ -1,0 +1,20 @@
+//Make sure watch and understand this tutorial video first 
+https://www.youtube.com/watch?v=xPSbxrMe7VU&t=934s
+
+Parameter 1 : (password for our database)
+hms
+
+Parameter 2 :
+users
+
+Parameter 3 :
+temp
+
+Parameter 4 :
+admin
+
+Parameter 5 :
+$ORACLE_HOME/demo/schema/log
+
+Parameter 6 :
+localhost:1521/XEPDB1
